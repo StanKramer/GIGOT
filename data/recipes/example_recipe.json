@@ -1,0 +1,9 @@
+{
+  "name": "MedPen",
+  "category": "Medical",
+  "output": { "item": "MedPen", "quantity": 1 },
+  "ingredients": [
+    { "item": "Medical Supplies", "quantity": 2 },
+    { "item": "Plastic", "quantity": 1 }
+  ]
+}
