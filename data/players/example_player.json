@@ -1,9 +1,7 @@
 {
   "player": "Example",
-  "location": "Seraphim Station",
   "inventory": [
     { "item": "Medical Supplies", "quantity": 100 },
     { "item": "Plastic", "quantity": 40 }
-  ],
-  "last_update": "2026-01-17"
+  ]
 }
